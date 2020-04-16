@@ -1,0 +1,15 @@
+Package: dashVideoPlayer
+Title: A wrapper for React video component
+Version: 0.0.1
+Description: A wrapper for React video component
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/chrisunice/dash-video-player
+BugReports: https://github.com/chrisunice/dash-video-player/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
+Author: Chris Unice [aut]
+Maintainer: Chris Unice <cunice@denmartech.com>

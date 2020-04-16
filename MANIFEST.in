@@ -1,0 +1,7 @@
+include dash_video_player/dash_video_player.min.js
+include dash_video_player/dash_video_player.min.js.map
+include dash_video_player/metadata.json
+include dash_video_player/package-info.json
+include README.md
+include LICENSE
+include package.json
